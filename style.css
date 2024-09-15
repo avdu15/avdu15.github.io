@@ -8,7 +8,7 @@ body {
     margin: 0px;
     padding: 8px;
     font-family: "Fredoka One", sans-serif;
-    box-shadow: 8px 8px 10px 3px darkorange;
+    box-shadow: 8px 8px 10px 3px rgb(106, 56, 136);
     width: 16%;
 }
 
@@ -43,8 +43,8 @@ body > header > nav > ul {
     color: white;
     text-decoration: none;
     padding: 6px;
-    border: 1px solid white;
-    border-radius: 10%;
+    border: 3px solid white;
+    border-radius: 5%;
 }
 
 body > main article {
